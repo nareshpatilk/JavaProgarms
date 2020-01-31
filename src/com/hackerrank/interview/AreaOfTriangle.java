@@ -22,6 +22,7 @@ public class AreaOfTriangle {
 		}
 
 		System.out.println("test conflicts");
+		System.out.println("test conflicts 2");
 		
 	}
 }

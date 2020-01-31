@@ -20,6 +20,9 @@ public class AreaOfTriangle {
 			co.add(inner);
 			
 		}
+
+		System.out.println("Output :");
+		System.out.println(x.toString());
 		
 	}
 }

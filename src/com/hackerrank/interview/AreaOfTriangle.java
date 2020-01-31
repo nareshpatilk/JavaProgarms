@@ -22,7 +22,6 @@ public class AreaOfTriangle {
 		}
 
 		System.out.println("Output :");
-		System.out.println(x.toString());
 		
 	}
 }
